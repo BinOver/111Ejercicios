@@ -3,7 +3,7 @@ package TecnicasDeProgramacion;
 
 import java.util.Scanner;
 
-public class E4AlternativaMulltiple {
+public class E4AlternativaDoble {
     
     public static void main (String args[]){
         
