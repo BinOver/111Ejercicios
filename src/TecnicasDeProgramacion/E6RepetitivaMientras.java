@@ -21,8 +21,6 @@ public class E6RepetitivaMientras {
         while (cont<=hasta){
             System.out.println(multiplo + " * " + cont + " = " + (multiplo*cont));
             cont++;
-        }
-        
-    }
-    
+        }   
+    } 
 }
