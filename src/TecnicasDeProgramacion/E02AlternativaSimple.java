@@ -13,7 +13,7 @@ public class E02AlternativaSimple {
         do{
         System.out.print("Ingrese contraseña: ");
         password = entradaTeclado.next();
-        }while (!(password.matches("[a-zA-Z0-9]*")));
+        }while (!(password.matches("[a-zA-Z]*")));
         
         if (password=="Correctpassword"){
             System.out.println("Password Correcto");
