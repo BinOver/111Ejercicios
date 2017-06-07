@@ -3,7 +3,7 @@ package TecnicasDeProgramacion;
 
 import java.util.Scanner;
         
-public class E1Secuencial {
+public class E01Secuencial {
     
     public static void main (String args[]){
         

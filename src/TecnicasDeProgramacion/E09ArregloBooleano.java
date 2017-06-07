@@ -3,7 +3,7 @@ package TecnicasDeProgramacion;
 
 import java.util.Random;
 
-public class E9ArregloBooleano {
+public class E09ArregloBooleano {
     
     public static void main(String args[]){
         

@@ -2,7 +2,7 @@ package TecnicasDeProgramacion;
 
 import java.util.Scanner;
 
-public class E2AlternativaSimple {
+public class E02AlternativaSimple {
     
     public static void main (String args[]){
         

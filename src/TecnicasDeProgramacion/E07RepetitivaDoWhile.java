@@ -3,7 +3,7 @@ package TecnicasDeProgramacion;
 
 import java.util.Scanner;
 
-public class E7RepetitivaDoWhile {
+public class E07RepetitivaDoWhile {
     
     public static void main(String args[]){
         int multiplo, hasta, cont=1;

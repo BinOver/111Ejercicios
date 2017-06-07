@@ -2,7 +2,7 @@
 package TecnicasDeProgramacion;
 
 import java.util.Scanner;
-public class E5AlternativaMultiple {
+public class E05AlternativaMultiple {
     
     public static void main (String args[]){
         int mes;

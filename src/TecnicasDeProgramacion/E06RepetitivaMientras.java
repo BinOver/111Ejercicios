@@ -4,7 +4,7 @@ package TecnicasDeProgramacion;
 
 import java.util.Scanner;
 
-public class E6RepetitivaMientras {
+public class E06RepetitivaMientras {
     
     public static void main (String args[]){
         

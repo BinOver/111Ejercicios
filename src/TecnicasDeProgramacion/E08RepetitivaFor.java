@@ -3,7 +3,7 @@ package TecnicasDeProgramacion;
 
 import java.util.Scanner;
         
-public class E8RepetitivaFor {
+public class E08RepetitivaFor {
 
     public static void main (String args[]){
         

@@ -2,7 +2,7 @@
 package TecnicasDeProgramacion;
 import java.util.Scanner;
 
-public class E3AlternativaDoble {
+public class E03AlternativaDoble {
     
     public static void main(String arg[]){
         int alumnos, bancos;
