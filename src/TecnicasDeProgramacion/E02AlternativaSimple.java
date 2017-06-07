@@ -6,7 +6,7 @@ public class E02AlternativaSimple {
     
     public static void main (String args[]){
         
-        String password;
+        String password,p="CorrectPassword";
         
         Scanner entradaTeclado = new Scanner(System.in);
         
@@ -15,7 +15,7 @@ public class E02AlternativaSimple {
         password = entradaTeclado.next();
         }while (!(password.matches("[a-zA-Z]*")));
         
-        if (password=="Correctpassword"){
+        if (password.equals(p)){
             System.out.println("Password Correcto");
         }else{
             System.out.println("Password Incorrecto");
